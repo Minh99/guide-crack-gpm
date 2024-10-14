@@ -16,7 +16,7 @@ mở ``` GPMLogin_setup_password_giaiphapmmo.vn.exe``` => pass: giaiphapmmo.vn
 
 ![image](https://github.com/user-attachments/assets/cacb5203-6a7a-44ac-a324-c557344a8ffb)
 
-- Mở GPM lên,  hiển thị màn "Licesen không tồn tại trên hệ thống" thì để đó, qua mở lại file ```GPMLoginActive.exe``` => đợi khoảng 5s sẽ hiển thị "GPMlogin actived OK" => là xong, ấn ok để tắt => quay lại GPM thì hiển thị màn nhập licesen thì ko cần nhập gì cả, ấn OK là xong.
+- Mở GPM lên,  hiển thị màn "Licesen không tồn tại trên hệ thống" thì để đó, qua mở lại file ```GPMLoginActive.exe``` => đợi khoảng 5s sẽ hiển thị "GPMlogin actived OK" => là xong, ấn ok để tắt => quay lại GPM thì hiển thị màn nhập licesen thì ko cần nhập gì cả, ấn "Áp dụng" là xong.
 
 ![image](https://github.com/user-attachments/assets/2d64bc15-3615-4520-937d-fbba8cfe33b0)
 
